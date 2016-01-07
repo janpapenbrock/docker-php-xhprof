@@ -15,9 +15,9 @@ To try, simply run
     
 And visit [http://localhost/](http://localhost/) in your browser.
 
-Xhprof reports are available at [http://localhost:8080/](http://localhost:8080).
-
 A new `.xhprof` data file should have been created in `xhprof/`.
+
+Xhprof reports are available at [http://localhost:8080/](http://localhost:8080).
 
 Use it
 ------
