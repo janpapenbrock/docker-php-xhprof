@@ -20,4 +20,4 @@ A new `.xhprof` data file should have been created in `xhprof/`.
 Use it
 ------
 
-To use it in your project, copy the relevant parts from `Dockerfile` and `htdocs/index.php` into your application.
+To use it in your project, copy the relevant parts from `Dockerfile` and `docker-compose.yml` as well as `htdocs/xhprof-bootstrap.php` into your application.
