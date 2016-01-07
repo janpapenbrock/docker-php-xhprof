@@ -10,9 +10,9 @@ To try, simply run
 
     docker-compose up
     
-And visit http://localhost/ in your browser.
+And visit [http://localhost/](http://localhost/) in your browser.
 
-A new `.xhprof` data file should have been created in ./xhprof.
+A new `.xhprof` data file should have been created in `xhprof/`.
 
 Use it
 ------
