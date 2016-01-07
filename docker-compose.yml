@@ -1,0 +1,7 @@
+web:
+  build: .
+  volumes:
+    - ./htdocs:/var/www/html
+    - ./xhprof:/var/www/xhprof
+  ports:
+    - 80:80
