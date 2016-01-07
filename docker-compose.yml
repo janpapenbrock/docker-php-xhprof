@@ -5,3 +5,11 @@ web:
     - ./xhprof:/var/www/xhprof
   ports:
     - 80:80
+xhprof:
+  build: .
+  volumes:
+    - ./xhprof_html:/var/www/html
+  volumes_from:
+    - web
+  ports:
+    - 8080:80
