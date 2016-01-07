@@ -8,6 +8,8 @@ Run it
 
 To try, simply run
 
+    git clone https://github.com/janpapenbrock/docker-php-xhprof.git
+    cd docker-php-xhprof
     chmod a+w xhprof
     docker-compose up
     
