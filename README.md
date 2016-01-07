@@ -8,6 +8,7 @@ Run it
 
 To try, simply run
 
+    chmod a+w xhprof
     docker-compose up
     
 And visit [http://localhost/](http://localhost/) in your browser.
